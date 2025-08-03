@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishabh Jat
 
-🚀 Full Stack Developer | 💡 MERN Stack Enthusiast |  
+🚀 Full Stack Developer | 💡 MERN Stack Enthusiast
 📍 Delhi, India  
 📧 jat.rishabh02@gmail.com | 📞 +91 6264276708  
 
