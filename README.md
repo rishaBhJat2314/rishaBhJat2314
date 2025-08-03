@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Rishabh Jat
 
-🚀 Full Stack Developer | 💡 MERN Stack Enthusiast | 🔐 JWT & API Specialist  
+🚀 Full Stack Developer | 💡 MERN Stack Enthusiast |  
 📍 Delhi, India  
 📧 jat.rishabh02@gmail.com | 📞 +91 6264276708  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rishabh--jat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rishabh-jat-198189284)  
-[![GitHub](https://img.shields.io/badge/GitHub-rishaBhJat2314-black?style=flat&logo=github)](https://github.com/rishaBhJat2314)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Rishabh__Jat23-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Rishabh_Jat23)
 
 ---
@@ -52,7 +51,7 @@ A hospital-focused diet tracking solution for efficient meal planning and delive
 ## 🎓 Education
 
 **MCA – Bharati Vidyapeeth's Institute of Computer Applications and Management, New Delhi**  
-📅 2023 | 🎓 Completed | 📊 CGPA: 8.55
+📅 2023-2025 | 📊 CGPA: 8.55
 
 **BCA – ISBA Institute of Professional Studies, Indore**  
 📅 2020–2023 | 📈 Percentage: 72.00%
