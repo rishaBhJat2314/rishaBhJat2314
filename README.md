@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishabh Jat</h1>
+**<h1 align="center">Hi 👋, I'm Rishabh Jat</h1>
 <h3 align="center">💻 Full-Stack Developer | 🚀 MERN Stack Enthusiast | 🎓 MCA Student</h3>
 
 <p align="center">
@@ -69,3 +69,4 @@ A simplified Uber clone with real-time tracking, ride-matching, and secure payme
 ---
 
 > _“The best way to predict the future is to build it.”_
+**
